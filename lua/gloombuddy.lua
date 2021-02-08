@@ -12,7 +12,7 @@ vim.g.colors_name='gloombuddy'
 ---------------------
 
 -- Background
-Color.new('bg_1',       '#212136')
+Color.new('bg_1',       '#0e0e11')
 Color.new('bg_2',       '#292a44')
 Color.new('bg_3',       '#363759')
 Color.new('bg_4',       '#626483')
